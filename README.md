@@ -1,2 +1,2 @@
 # Glory-or-Death
-Card game
+Card game by HeavyBoy
