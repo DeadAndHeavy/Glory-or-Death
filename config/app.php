@@ -158,6 +158,7 @@ return [
 
         Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
         Jenssegers\Mongodb\MongodbServiceProvider::class,
+        Jenssegers\Mongodb\Auth\PasswordResetServiceProvider::class,
 
     ],
 
